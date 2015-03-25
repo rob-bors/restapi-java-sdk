@@ -1,4 +1,4 @@
-IS24 API SDK v0.1 beta (restapi-java-sdk)
+IS24 API SDK (restapi-java-sdk)
 ==========================
 Author:     Martin Flügge
 
@@ -11,15 +11,6 @@ Das IS24 API SDK von ImmobilienScout24 steht unter der Apache Common License v2.
 
 History
 =======
-
-
-Who  		  | When 		  | What
-------------- | ------------- | ------------- 
-mfluegge  	  | 10th June 2014| initial commit
-mfluegge  	  | 10th June 2014| v0.1 beta
-mfluegge  	  | 3th November 2014| v0.2 beta
-mfluegge  	  | 4th November 2014| v0.2.3
-
 
 v0.2.3
 ----------
